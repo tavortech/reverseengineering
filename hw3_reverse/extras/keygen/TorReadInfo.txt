@@ -1,0 +1,4 @@
+keygen_mapper.py: code used to create mapping
+reverse_mapper.py: code used to find out the reverse for mapping created by mapper
+reverse_mapping.txt: output file to mappers, manually added the last item because 
+*I acted funny as described in report.
