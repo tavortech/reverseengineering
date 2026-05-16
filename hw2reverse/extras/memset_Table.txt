@@ -1,0 +1,19 @@
+408020 | B  .  O  .  A  A
+408026 | B  Q  O  .  .  P
+40802C | G  Q  O  X  X  P
+408032 | G  Q  R  R  R  P
+408038 | E  E  .  .  .  D
+40803E | F  F  .  .  .  D
+
+PS C:\Users\TA\Desktop\hw2> ./sheep.exe
+ER3
+GD1
+FR3
+QD2
+AL1
+PU1
+RR1
+OD3
+XL3
+You won the game!
+Here is a single use code: DFJ2OSN6JU. Use it wisely.
